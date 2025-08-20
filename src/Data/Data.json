@@ -1,129 +1,176 @@
 [
-    {
-        "category":"پیش غذا",
-        "items":[
-            {
-                "id":1,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },
-            {
-                "id":2,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },
-            {
-                "id":3,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },
-            {
-                "id":4,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            }
-        ]
-    },
-    {
-        "category":"غذای اصلی",
-        "items":[
-            {
-                "id":5,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },
-            {
-                "id":6,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },{
-                "id":7,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },{
-                "id":8,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },{
-                "id":9,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },{
-                "id":10,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },{
-                "id":11,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            }
-        ]
-    },
-    {
-        "category":"drinks",
-        "items":[
-            {
-                "id":12,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },{
-                "id":13,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },{
-                "id":14,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },{
-                "id":15,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },{
-                "id":16,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            },{
-                "id":17,
-                "name":"",
-                "price":"",
-                "description":"",
-                "image":""
-            }
-        ]
-    },
-    {
-        
-    }
+  {
+    "category": "پیش غذا",
+    "items": [
+      {
+        "id": 1,
+        "name": "آبگوشا بریان سالن",
+        "price": "40000",
+        "description": "",
+        "image": "/src/assets/pish/abgosht.jpg"
+      },
+      {
+        "id": 2,
+        "name": "آبگوشت بریان کوچک بیرون بر",
+        "price": "70000",
+        "description": "",
+        "image": "/src/assets/pish/abgosht.jpg"
+      },
+      {
+        "id": 3,
+        "name": "آبگوشت بریان بزرگ بیرون بر",
+        "price": "80000",
+        "description": "",
+        "image": "/src/assets/pish/abgosht.jpg"
+      },
+      {
+        "id": 4,
+        "name": "خورشت ماست",
+        "price": "147000",
+        "description": "٢٥٠گرم",
+        "image": "/src/assets/pish/khoreshtmast.jpg"
+      },
+      {
+        "id": 5,
+        "name": "آبدوغ خیار",
+        "price": "97000",
+        "description": "دوغ مخصوص عشایر ، کشکمش و گردو",
+        "image": "/src/assets/pish/soogh.jpg"
+      },
+      {
+        "id": 6,
+        "name": "زیتون پرورده",
+        "price": "30000",
+        "description": "",
+        "image": "/src/assets/pish/download.jpeg"
+      },
+      {
+        "id": 7,
+        "name": "ماست و موسیر",
+        "price": "30000",
+        "description": "",
+        "image": "/src/assets/pish/202410012053215633444.jpg"
+      }
+    ]
+  },
+  {
+    "category": "غذای اصلی",
+    "items": [
+      {
+        "id": 8,
+        "name": "جوجه کباب زعفرانی",
+        "price": "210000",
+        "description": "٢٥٠گرم شنسیل بدون استخوان به همراه دورچین",
+        "image": "/src/assets/main/joojeh.jpg"
+      },
+      {
+        "id": 9,
+        "name": "بریان",
+        "price": "300000",
+        "description": "١٠٠گرم مخلوط گوشت گوسفندی و گوساله",
+        "image": "/src/assets/main/beryon.jpg"
+      },
+      {
+        "id": 10,
+        "name": "کباب کوبیده",
+        "price": "340000",
+        "description": "٢٠٠گرم مخلوط گوشت بره و گوساله",
+        "image": "/src/assets/main/koobideh.jpg"
+      },
+      {
+        "id": 11,
+        "name": "کباب کوبیده مخصوص",
+        "price": "350000",
+        "description": "٢٠٠گرم مخلوط گوشت بره و گوساله، سبزیجات معطر",
+        "image": "/src/assets/main/makhsoos.jpg"
+      },
+      {
+        "id": 12,
+        "name": "کباب چنجه",
+        "price": "560000",
+        "description": "١٠٠گرم مخلوط گوشت گوسفندی و گوساله",
+        "image": "/src/assets/main/chnjeh.jpg"
+      },
+      {
+        "id": 13,
+        "name": "کباب مخلوط",
+        "price": "450000",
+        "description": "١سیخ کباب کوبیده مخصوص ١٠٠گرمی مخلوط گوشت گوسفندی و…",
+        "image": "/src/assets/main/makhloot.jpg"
+      },
+      {
+        "id": 14,
+        "name": "کباب درباری",
+        "price": "370000",
+        "description": "یک سیخ کباب کوبیده ١٠٠ گرمی گوسفندی، یک سیخ…",
+        "image": "/src/assets/main/darbary.jpg"
+      }
+    ]
+  },
+  {
+    "category": "نوشیدنی",
+    "items": [
+      {
+        "id": 15,
+        "name": "نوشابه قوطی",
+        "price": "",
+        "description": "",
+        "image": "/src/assets/drinks/coo.png"
+      },
+      {
+        "id": 16,
+        "name": "دلستر قوطی",
+        "price": "",
+        "description": "",
+        "image": "/src/assets/drinks/heyday.jpg"
+      },
+      {
+        "id": 17,
+        "name": "لیموناد قوطی",
+        "price": "",
+        "description": "",
+        "image": "/src/assets/drinks/limoo.jpg"
+      },
+      {
+        "id": 18,
+        "name": "دوغ",
+        "price": "",
+        "description": "",
+        "image": "/src/assets/drinks/doogh.jpg"
+      },
+      {
+        "id": 19,
+        "name": "آب معدنی",
+        "price": "",
+        "description": "",
+        "image": "/src/assets/drinks/sater.jpg"
+      }
+    ]
+  },
+  {
+    "category": "دسر",
+    "items": [
+      {
+        "id": 20,
+        "name": "بسبوسه کرم‌دار عربی لقمه‌ای",
+        "price": "40000",
+        "description": "با تزئین مغز پسته",
+        "image": "/src/assets/deser/besbooseh.jpeg"
+      },
+      {
+        "id": 21,
+        "name": "باقلوا کنافه لقمه‌ای",
+        "price": "40000",
+        "description": "مغزدار",
+        "image": "/src/assets/deser/kanafeh.jpeg"
+      },
+      {
+        "id": 22,
+        "name": "چایی",
+        "price": "40000",
+        "description": "مخصوص سالن سرویس تک‌نفره",
+        "image": "/src/assets/deser/tea.jpg"
+      }
+    ]
+  }
 ]
